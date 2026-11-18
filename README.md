@@ -1,4 +1,4 @@
-# AmnShield Desktop - Unified Guardian
+# AmniShield Desktop - Unified Guardian
 
 A modern Flutter desktop application for Windows that unifies desktop process monitoring, blocking, and configuration settings into a single, fast, and maintainable cross-platform solution.
 
