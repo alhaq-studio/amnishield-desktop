@@ -2,29 +2,6 @@
 
 A modern Flutter desktop application for Windows that unifies desktop process monitoring, blocking, and configuration settings into a single, fast, and maintainable cross-platform solution.
 
-## 🚀 Migration Summary
-
-### **What Was Converted**
-
-#### From C# Desktop App (AmnShield-Desktop-App):
-- ✅ Password protection with encryption (SHA-256 + AES)
-- ✅ Application discovery from registry and file system
-- ✅ Process monitoring and blocking
-- ✅ Advanced scheduling (Always, Weekdays, Weekend, Custom time ranges)
-- ✅ Browser URL blocking via Windows registry
-- ✅ System tray integration
-- ✅ Admin privilege detection
-- ✅ Modern Material Design UI
-
-#### From Electron Manager (AmnShield-Desktop-Manager):
-- ✅ Quick launch dashboard
-- ✅ Search functionality
-- ✅ Todo list management
-- ✅ Notes/memo feature
-- ✅ System power controls (Lock, Shutdown, Restart)
-- ✅ Alt+Space hotkey support (via window_manager)
-- ✅ Clean, modern interface
-
 ## 📁 Project Structure
 
 ```
